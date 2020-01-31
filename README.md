@@ -1,12 +1,12 @@
 # search_pageview
-搜索页面，可以以列表方式或是标签方式展示搜索内容\n
+搜索页面，可以以列表方式或是标签方式展示搜索内容  
 ![效果1](https://github.com/samstring/search_pageview/blob/master/images/2833BAEC4BD0F72B9EF42FBA8E997CEA.jpg)
 ![效果2](https://github.com/samstring/search_pageview/blob/master/images/C39AF3843295EF6A612CFB85E27F7298.jpg)
 
 
 ## 安装
 
-search_pageview: ^最新版本，如当前最新是0.0.6，则使用如下\n
+search_pageview: ^最新版本，如当前最新是0.0.6，则使用如下  
 search_pageview: ^0.0.6
 
 ## 基础使用
