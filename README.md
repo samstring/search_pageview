@@ -1,5 +1,5 @@
 # search_pageview
-搜索页面，可以以列表方式或是标签方式展示搜索内容  
+搜索页面，可以以列表方式,标签或是自定义的方式展示搜索内容  
 <img src="https://github.com/samstring/search_pageview/blob/master/images/2833BAEC4BD0F72B9EF42FBA8E997CEA.jpg" width="401" height="795" />
 <img src="https://github.com/samstring/search_pageview/blob/master/images/C39AF3843295EF6A612CFB85E27F7298.jpg" width="401" height="795" />
 
