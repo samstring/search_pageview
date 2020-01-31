@@ -36,10 +36,10 @@ clickItemBlock:  (BuildContext context1,List itemList,int index,bool isHistory){
 ## 其他设置
 
 ```
-String _placeHolder = "搜索"; //搜索文字
-String _hotSearchTitle = "热门搜索";
-String _historySearchTitle = "最近搜索";
-String _cancelTitle = "取消";
+String _placeHolder = "搜索"; //搜索框占位文字
+String _hotSearchTitle = "热门搜索";//热门搜索标题
+String _historySearchTitle = "最近搜索";//最近搜索标题
+String _cancelTitle = "取消";//取消按钮标题
 bool _isShowHitorySearch = true; //是否显示搜索历史
 bool _isShowHistoryItemDeleteAllButton = true; //是否显示搜索历史删除按钮
 bool _isShowHotSearch = true; //是否显示热门搜索
