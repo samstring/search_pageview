@@ -18,8 +18,9 @@ class SearchPage extends StatelessWidget {
         child: SearchViewPage(
           hotSearchWordList: hotSearchList,
           hotSearchType: SearchContentType.tagType,//热门搜索以标签，立标或是自定义方式去显示
-          hitoryType: SearchContentType.tagType,//历史搜索以标签，立标或是自定义方式去显示
+          hitoryType: SearchContentType.listType,//历史搜索以标签，立标或是自定义方式去显示
           isShowHistoryItemDeleteAllButton: true,//是否显示删除全部历史按钮，默认是true
+          isShowHistoryToTop: true,//交换热门与搜索位置
           // hotSearchType: SearchContentType.customerType,
           // hotSearchBuilder: (//自定义热门搜索视图
           //     List hotSearchWordList){ 
